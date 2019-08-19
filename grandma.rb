@@ -1,6 +1,6 @@
 def speak_to_grandma
   ""
-if phrase.upcase
+if phrase. then
   return "HUH?! SPEAK UP, SONNY!"
 
 
