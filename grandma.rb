@@ -4,11 +4,9 @@ if phrase.upcase = false then
 end
   return "HUH?! SPEAK UP, SONNY!"
 else phrase == phrase.upcase
-end
   return "NO, NOT SINCE 1938!"
   ""
-elseif phrase == "I LOVE YOU GRANDMA!"
-end-ofinput
+elseif phrase == "I LOVE YOU GRANDMA!" then
 return "I LOVE YOU TOO PUMPKIN!"
 end
 end
