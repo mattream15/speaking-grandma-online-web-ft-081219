@@ -1,7 +1,8 @@
 def speak_to_grandma
   ""
+if phrase.upcase
   return "HUH?! SPEAK UP, SONNY!"
-  
+
 
   end
 
