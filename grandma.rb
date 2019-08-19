@@ -4,7 +4,7 @@ if phrase.upcase = false then
   return "HUH?! SPEAK UP, SONNY!"
 else phrase.upcase = true end
   return "NO, NOT SINCE 1938!"
-elseif phrase = "I LOVE YOU GRANMDA!" end
+elseif phrase = "I LOVE YOU GRANDMA!" end
 return "I LOVE YOU TOO PUMPKIN!"
 
 
